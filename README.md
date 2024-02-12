@@ -1,4 +1,6 @@
-# Nuxt 3 Minimal Starter
+# AliExpress Clone
+
+Course by [John Weeks AliExpress Clone](https://www.youtube.com/watch?v=dVcCRFVhz74&t=358s)
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
